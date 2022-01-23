@@ -1,7 +1,5 @@
-$(document).ready(function () {
-    $(".result-input").css({
-        backgroundColor: "#D5CCCD"
-    });
+$(".result-input").css({
+    backgroundColor: "#D5CCCD"
 });
 $(".slider").click(function () {
     var hasClass = $(this).hasClass("slider-checked");
